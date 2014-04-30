@@ -1,3 +1,4 @@
-xrong.github.io
+说明
 ===============
-个人博客页面
+Learn to create a blog!
+Never too old too learn!
