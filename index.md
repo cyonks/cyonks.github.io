@@ -15,10 +15,10 @@ layout: home
         <ul class="artical-list">
         {% for post in site.categories.blog %}
             <li>
-                <span>::before</span>
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                
+                <h2><a href="{{ post.url }}">★{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
-                <span>::after</span>
+             
             </li>
         {% endfor %}
         </ul>

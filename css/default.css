@@ -112,10 +112,32 @@ background: -o-linear-gradient(top, #7e6d42 0%,#5c4e35 100%);
 background: -ms-linear-gradient(top, #7e6d42 0%,#5c4e35 100%);
 background: linear-gradient(to bottom, #7e6d42 0%,#5c4e35 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e6d42', endColorstr='#5c4e35',GradientType=0 ); }
+
+.index-content .artical-list li:before{
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 0px;
+    border-color: transparent #222 #222 transparent;
+    border-style: solid;
+    border-width: 5px;
+    width: 0;
+    height: 0;
+}
+.index-content .artical-list li:after{
+    content: "★";
+    color: #fc0;
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    font-size: 28px;
+    font-weight: bold;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+}
 .index-content h2 { font-size:20px; margin-bottom:15px; word-break: break-all;}
 .index-content h2 a { color:#F5EDED }
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
-.index-content .title-desc {color:#DD6565;font-size:18px;line-height:1.6em;}
+.index-content .title-desc {color:#E2A5A5;font-size:18px;line-height:1.6em;}
 
 .index-content .artical-cate { width:70%; margin:0 auto; }
 .index-content .artical-cate li { display:inline-block; *float:left; zoom:1; font-size:25px; width:32%; cursor:pointer;border-radius: 5px; }
