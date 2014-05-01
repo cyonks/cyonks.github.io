@@ -94,7 +94,10 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 }*/
 .index-content .section { margin-left:10%; padding-top:80px; padding-right:15%; ;}
 
-.index-content .artical-list { width:70%; margin:0 auto; }
+.index-content .artical-list { width:70%; margin:0 auto;background: #444;
+border-radius: 10px;
+padding: 20px;
+box-shadow: 0 3px 10px rgba(0,0,0,.1); }
 .index-content .artical-list li { 
     margin-bottom:70px;margin: 30px 0;
 margin-left: -30px;
@@ -118,7 +121,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e6d42', end
     position: absolute;
     top: -10px;
     left: 0px;
-    border-color: transparent #222 #222 transparent;
+    border-color:transparent #7e6d42 #7e6d42 transparent;
     border-style: solid;
     border-width: 5px;
     width: 0;
