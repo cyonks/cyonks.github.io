@@ -86,11 +86,11 @@ $(document).ready(function(){
             var h3 = heading.h3;
 
             for(var i=0;i<h2.length;i++){
-                tmpl += '<li class="h2"><a href="#" data-id="'+h2[i].id+'">&clubs;'+h2[i].name+'</a></li>';
+                tmpl += '<li class="h2"><a href="#" data-id="'+h2[i].id+'">&clubs;&nbsp;'+h2[i].name+'</a></li>';
 
                 if(h3[i]){
                     for(var j=0;j<h3[i].length;j++){
-                        tmpl += '<li class="h3"><a href="#" data-id="'+h3[i][j].id+'">&diams;'+h3[i][j].name+'</a></li>';
+                        tmpl += '<li class="h3"><a href="#" data-id="'+h3[i][j].id+'">&diams;&nbsp;'+h3[i][j].name+'</a></li>';
                     }
                 }
             }
