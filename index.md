@@ -15,8 +15,10 @@ layout: home
         <ul class="artical-list">
         {% for post in site.categories.blog %}
             <li>
+                ::before
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
+                ::after
             </li>
         {% endfor %}
         </ul>
