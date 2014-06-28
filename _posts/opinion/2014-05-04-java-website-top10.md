@@ -5,7 +5,7 @@ category: opinion
 description: Java开发牛人必备的网站可以提供信息，以及一些很棒的讲座, 还能解答一般问题、面试问题等。质量是衡量一个网站的关键因素。
 ---
 
-#本文由 [ImportNew - 张文太](http://www.importnew.com/author/zhangwentai) 翻译自 [programcreek]。
+`本文由 [ImportNew - 张文太](http://www.importnew.com/author/zhangwentai) 翻译自 [programcreek]。`
 
 以下是我收集的Java开发牛人必备的网站。这些网站可以提供信息，以及一些很棒的讲座, 还能解答一般问题、面试问题等。质量是衡量一个网站的关键因素，我个人认为这些网站质量都很好。接下来，我会跟大家分享我是如何使用这些网站学习和娱乐的。或许你会认为有些网站适合任何水平的开发者，但是我认为：对于Java开发牛人来说，网站的好坏取决于如何使用它们。
 
