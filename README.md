@@ -1,6 +1,5 @@
-#说明
+#Note
 
 -----
 
-
-[个人博客](xrong.github.io),From [BeiYuu](beiyuu.com)
+Blog,Template from [BeiYuu](http://beiyuu.com)
