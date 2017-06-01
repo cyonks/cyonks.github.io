@@ -1,3 +1,12 @@
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 顶部广告 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1195364755182947"
+     data-ad-slot="5179318117"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 $(document).ready(function(){
 
     var isMobile = {
