@@ -9,3 +9,5 @@ title: xrong
 
 feed: /atom.xml
 author_info: <a href="xrong.github.io">xrong</a>
+
+theme: jekyll-theme-cayman
